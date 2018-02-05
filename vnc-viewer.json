@@ -1,0 +1,12 @@
+{
+    "homepage": "https://www.realvnc.com/",
+    "version": "6.17.1113",
+    "url": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.17.1113-Windows.exe",
+    "bin": "vnc-viewer.exe",
+    "shortcuts": [
+        [
+            "vnc-viewer.exe",
+            "VNC Viewer"
+        ]
+    ],
+}
